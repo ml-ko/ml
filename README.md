@@ -1,1 +1,1 @@
-# ml
+# GOTO cafe.naver.com/mlstudy 
